@@ -1,3 +1,3 @@
-API_KEY = '7xOmdue1AoITJI4PoyCXVLp5apqOPgFw0MwsjVDodS9mjANzgVdZlpJ46zFnXPRt'
-API_SECRET ='G4HEvd8pxrNkni8VbmvUsKngp9PC7buOlqalT46Phj2DmMszCTa42HXfl6EfV4WT' 
+API_KEY = ''
+API_SECRET ='' 
 TRADES_FILENAME = 'Trades_Format.xlsx'
